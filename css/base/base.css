@@ -1,0 +1,14 @@
+body{
+    background: var(--red);
+    background-image: url("../../images/bg-intro-desktop.png");
+    font-family: 'Poppins', sans-serif;
+}
+
+@media screen and (max-width: 375px) {
+    .body{
+        background-image: url("../../images/bg-intro-mobile.png");
+        display: flex;
+        justify-content: flex-end;
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,14 @@
+.form{
+    background: aliceblue;
+    border-radius: 0.5rem;
+
+    box-shadow: -1px 11px 0px -1px rgba(0,0,0,0.15);
+    -webkit-box-shadow: -1px 11px 0px -1px rgba(0,0,0,0.15);
+    -moz-box-shadow: -1px 11px 0px -1px rgba(0,0,0,0.15);
+}
+
+@media screen and (max-width: 375px) {
+    .form{
+        width: 100%;
+    }
+}

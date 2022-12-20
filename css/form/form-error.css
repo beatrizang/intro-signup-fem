@@ -1,0 +1,9 @@
+.form__error{
+    align-self: flex-end;
+    color: var(--red);
+    font-size: 0.7rem;
+    font-weight: 500;
+    font-style: italic;
+    margin-right: 0.3rem;
+
+}

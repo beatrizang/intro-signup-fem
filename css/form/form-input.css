@@ -1,0 +1,21 @@
+.form__input{
+    border: 1px solid var(--grey-light);
+    border-radius: 0.5rem;
+    margin: 0.3rem;
+    padding: 0.7rem;
+    outline: none;
+}
+
+.form__input::placeholder{
+    font-weight: 500;
+}
+
+.form__input:focus{
+    border: 0.15rem solid var(--blue);
+}
+
+@media screen and (max-width: 375px) {
+    .form__input{
+        padding: 1rem;
+    }
+}

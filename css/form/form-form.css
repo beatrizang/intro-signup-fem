@@ -1,0 +1,6 @@
+.form__form{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 2rem 0.8rem 2rem;
+}
+

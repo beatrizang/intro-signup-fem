@@ -1,0 +1,12 @@
+.right__adv{
+    background: var(--blue);
+    border-radius: 0.4rem;
+    color: aliceblue;
+    margin-bottom: 1rem;
+    text-align: center;
+    padding: 1rem;
+
+    box-shadow: -1px 8px 0px -1px rgba(0,0,0,0.15);
+-webkit-box-shadow: -1px 8px 0px -1px rgba(0,0,0,0.15);
+-moz-box-shadow: -1px 8px 0px -1px rgba(0,0,0,0.15);
+}

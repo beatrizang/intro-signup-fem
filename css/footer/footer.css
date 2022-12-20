@@ -1,0 +1,18 @@
+.footer{
+    color: aliceblue;
+    text-align: center;
+}
+
+.footer__link:hover{
+    color: var(--blue);
+    transition: 0.4s;
+}
+
+@media screen and (max-width: 375px) {
+    .footer{
+        align-self: flex-end !important;
+        display: flex;
+        justify-self: flex-end;
+        padding-bottom: 2rem;
+    }
+}
