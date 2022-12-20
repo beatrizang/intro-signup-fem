@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: https://beatrizang.github.io/intro-signup-fem/
+- Solution URL: https://www.frontendmentor.io/solutions/intro-component-with-signup-form-1INZnLNoto
+- Live Site URL: https://prismatic-jalebi-0aee54.netlify.app/
 
 ## My process
 
