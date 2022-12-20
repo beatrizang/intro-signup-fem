@@ -1,6 +1,6 @@
 body{
     background: var(--red) !important;
-    background-image: url("../../images/bg-intro-desktop.png");
+    background-image: url("../../images/bg-intro-desktop.png") !important;
     font-family: 'Poppins', sans-serif;
 }
 
